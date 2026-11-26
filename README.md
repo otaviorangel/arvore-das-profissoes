@@ -10,3 +10,7 @@ O projeto foi desenvolvido como uma atividade prática de HTML e CSS, com o obje
 📚 Aprendizados
 
 Durante o desenvolvimento, pratiquei a estruturação de páginas com HTML, a estilização com CSS e a organização de informações em elementos visuais.
+📖 Pesquisa sobre as profissões e a Inteligência Artificial
+
+
+👉 Clique aqui para acessar a pesquisa completa
