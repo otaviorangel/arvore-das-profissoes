@@ -1,4 +1,6 @@
 # arvore-das-profissoes
+<img width="1548" height="861" alt="image" src="https://github.com/user-attachments/assets/0236149d-707b-4b97-a6d3-a39b3002a36f" />
+
 🌳 Árvore Genealógica do Otávio
 
 Este repositório apresenta a árvore genealógica da minha família, destacando os integrantes das famílias paterna e materna, suas relações familiares, ocupações, atividades e características pessoais ao longo das gerações.
