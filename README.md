@@ -13,4 +13,5 @@ Durante o desenvolvimento, pratiquei a estruturação de páginas com HTML, a es
 📖 Pesquisa sobre as profissões e a Inteligência Artificial
 
 
-👉 Clique aqui para acessar a pesquisa completa
+👉 Clique aqui para acessar a pesquisa completa:
+🔗 https://github.com/otaviorangel/arvore-das-profissoes/blob/main/pesquisa.md
